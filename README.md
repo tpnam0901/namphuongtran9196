@@ -2,7 +2,7 @@
 
 ### :smiley_cat: AI researcher & AI engineer
 
-![gif](https://github.com/namphuongtran9196/namphuongtran9196/blob/main/assets/Ncoder1.gif)
+![gif](https://github.com/namphuongtran9196/namphuongtran9196/blob/main/assets/Ncoder.gif)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
