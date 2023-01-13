@@ -2,8 +2,9 @@
 
 ### :smiley_cat: AI researcher & AI engineer
 
-<h1 align="center"> ![gif](https://github.com/namphuongtran9196/namphuongtran9196/blob/main/assets/NCoder.gif)
-</h1>
+<p align="center">
+  <img src="./assets/NCoder.gif" alt="animated" />
+</p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
