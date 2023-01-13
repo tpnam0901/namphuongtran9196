@@ -1,9 +1,17 @@
-👋 Hi, I’m Nam
-🌱 I'm Artificial Intelligence student at FPT University from 2019 - 2023. I'm Currently working on personal projects related to Computer vision like CNN, R-CNN, Faster R-CNN,... since 2020.
-👀 I’m interested in algorithmic improvement, AI models research.
-- I'm also Student of Foundation 07 Machine Learning/Artificial Intelligence at VietAI - Class about selecting knowledge to numerous case studies and applications, 
-such as predicting house prices using Linear Regression, Recognizing Vietnamese landscape by Logistic Regression and solving handwriting recognition problems by Softmax Regression. 
-- 📫 How to reach me:
--> Email: namphuongtran9196@gmail.com
--> Facebook: https://www.facebook.com/namphuongtran9196
--> LinkedLn: https://www.linkedin.com/in/namtranphuong9196/
+<h1 align="center">Hello There 👋 </h1>
+
+### :smiley_cat: AI researcher & AI engineer
+
+![gif](https://github.com/namphuongtran9196/namphuongtran9196/blob/main/assets/Ncoder1.gif)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## By the way here are some of my statistics 🚀
+![namphuongtran9196's github stats](https://github-readme-stats.vercel.app/api?username=namphuongtran9196&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=namphuongtran9196&theme=tokyonight" alt="mystreak"/>
+![namphuongtran9196's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namphuongtran9196&theme=tokyonight&layout=compact)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## Contact me : 
+📫 [![Gmail Badge](https://img.shields.io/badge/-namphuongtran9196@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:namphuongtran9196@gmail.com)](namphuongtran9196@gmail.com)
