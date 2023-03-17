@@ -1,17 +1,18 @@
-<h1 align="center">Hello There 👋 </h1>
-
-### :smiley_cat: AI researcher & AI engineer
-
+<h1 align="center">Hello There 👋 
+  
+:smiley_cat: I'm an AI researcher & AI engineer</h1>
 <p align="center">
   <img src="./assets/NCoder.gif" alt="animated" />
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## By the way here are some of my statistics 🚀
+<h2 align="center"> By the way here are some of my statistics 🚀</h2>
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=namphuongtran9196&theme=tokyonight&count_private=true&show_icons=true)
+  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=namphuongtran9196&theme=tokyonight&mode=weekly)
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namphuongtran9196&theme=tokyonight&hide=jupyter%20notebook&layout=compact)
   
 </div>
