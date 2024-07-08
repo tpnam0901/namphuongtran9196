@@ -20,4 +20,4 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-namphuongtran9196@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:namphuongtran9196@gmail.com)](namphuongtran9196@gmail.com)
+📫 [![Gmail Badge](https://img.shields.io/badge/-tpnam0901@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:namphuongtran9196@gmail.com)](tpnam0901@gmail.com)
